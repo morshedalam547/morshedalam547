@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/1843755872/photo/database-management-optimize-data-for-performance-and-create-insight-report-goal-of-enhancing.jpg?s=612x612&w=0&k=20&c=dJeDp5P55tKDPkIDTNDxipE8aHh8HqhewZj0bTo0re0=)
+ <img align="center" width ="500" src="https://media.licdn.com/dms/image/v2/D4D12AQGea8ArJJWY3A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675184876837?e=2147483647&v=beta&t=DdMBJluitbCxZ_AEzGz012sx5DSCRqT8BEFc_ZjqFlM">
 
 <h1 align="center">Hi 👋, I'm Morshed Alam</h1>
 <h3 align="center">A passionate Software Engineer Developer from Bangladesh</h3>
