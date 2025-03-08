@@ -1,7 +1,7 @@
- <img align="center" width ="500" src="https://media.licdn.com/dms/image/v2/D4D12AQGea8ArJJWY3A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675184876837?e=2147483647&v=beta&t=DdMBJluitbCxZ_AEzGz012sx5DSCRqT8BEFc_ZjqFlM">
+ <img align="center" width ="1600" height="200" src="https://www.brighton.ac.uk/images/School-of-Computing-Engineering-and-Mathematics/Artificial-intelligence-banner-Cropped-1300x340.jpg?f=webp&q=80&w=990">
 
 <h1 align="center">Hi 👋, I'm Morshed Alam</h1>
-<h3 align="center">A passionate Software Engineer Developer from Bangladesh</h3>
+<h2 align="center">A passionate Software Engineer Developer from Bangladesh</h2>
 <img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **morshedalam547@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
