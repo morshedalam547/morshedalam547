@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **PHP, Laravel & Vue Js**
 
-- 💬 Ask me about **React Vue & MEARN**
-
 - 📫 How to reach me **morshedalam547@gmail.com**
 
 - ⚡ Fun fact **I am Friendly**
