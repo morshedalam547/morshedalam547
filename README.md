@@ -1,4 +1,4 @@
- <img align="center" width ="1600" height="300" src="https://www.webinstitute.com.bd/public/frontend/course/thumbnail/thumbnail-1709701132-web-development-basic.jpg">
+ <img align="center" width ="1600" height="300" src="https://raw.githubusercontent.com/mamorshedalam/mamorshedalam/refs/heads/main/mamorshedalam.png">
 
 <h2 align="center">Hi 👋, I'm Backend Software Engineer Developer from Bangladesh </h2>
 
