@@ -1,4 +1,4 @@
- <img align="center" width ="1600" height="300" src="https://raw.githubusercontent.com/mamorshedalam/mamorshedalam/refs/heads/main/mamorshedalam.png">
+ <img align="center" width ="1600" height="200" src="https://raw.githubusercontent.com/mamorshedalam/mamorshedalam/refs/heads/main/mamorshedalam.png">
 
 <h2 align="center">Hi 👋, I'm Backend Software Engineer Developer from Bangladesh </h2>
 
