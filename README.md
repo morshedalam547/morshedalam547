@@ -13,7 +13,7 @@
 
 -  How to reach me **morshedalam547@gmail.com**
 
--  Fun fact **I am Friendly**
+-  Fun fact **I’m known for being friendly!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
