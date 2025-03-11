@@ -9,7 +9,7 @@
 
 -  I’m currently working on **Rest API Project**
 
--  I’m currently learning **PHP, Laravel & Vue Js**
+-  I’m actively expanding my skills in **PHP, Laravel & Vue Js**
 
 -  How to reach me **morshedalam547@gmail.com**
 
